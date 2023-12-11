@@ -1,10 +1,4 @@
-# Bolt CMS 
-
-## 描述
-
-
-
-## 上传 WebShell
+# 上传 WebShell
 
 需要前往 `/bolt/file-edit/config?file=/bolt/config.yaml` 修改网站允许上传的文件后缀
 
