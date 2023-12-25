@@ -1,7 +1,8 @@
 # Typroa 美化增强
 > 用了很多笔记软件, 最后还是回到了 Typroa
+> 这些方式是对于在本地 Typroa 可以美化, 对于 github 有点不适合
 ## 链接美化
-- 使用这种方式, 可以在链接前面加一个对应的图标 <img src="https://github.githubassets.com/favicons/favicon-dark.png" style="width: 2.5%; height: auto;margin-right: 3px;"> [示例](https://github.com)
+- 使用这种方式, 可以在链接前面加一个对应的图标
   ```html
   <img src="netstarsec.png" style="width: 2.5%; height: auto;margin-right: 3px;"> [XXXX](XXXX)
   ```
