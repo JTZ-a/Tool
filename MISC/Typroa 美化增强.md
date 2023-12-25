@@ -12,3 +12,13 @@
     在这其中 <span style="font-weight: bold;">id:14</span> 的证书其 <span style="font-style: italic;">使用者可选名称为</span> 主体名称=administrator
   </p>
   ```
+## 引用
+<blockquote style="border-left: 4px solid #ccc; padding-left: 10px;padding-top: 5px;padding-bottom: 5px;background-color: #eafff8;">
+  <p style="size: 3px">使用这种方式可以设置其底色</p>
+</blockquote>
+
+```html
+<blockquote style="border-left: 4px solid #ccc; padding-left: 10px;padding-top: 5px;padding-bottom: 5px;background-color: #eafff8;">
+  <p style="size: 3px"><code>http.createServer</code> 里的回调函数的执行时机： 当接收到 HTTP 请求的时候，就会执行</p>
+</blockquote>
+```
